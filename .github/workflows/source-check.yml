@@ -43,7 +43,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Verify Adapter updater remains disabled
         run: node scripts/check-adapter-updater-disabled.mjs
       - name: Check Rust formatting
