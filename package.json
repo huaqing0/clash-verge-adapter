@@ -74,7 +74,7 @@
     "react-hook-form": "^7.72.0",
     "react-i18next": "17.0.6",
     "react-markdown": "10.1.0",
-    "react-router": "^7.13.1",
+    "react-router": "^7.15.1",
     "rehype-raw": "^7.0.0",
     "tauri-plugin-mihomo-api": "github:clash-verge-rev/tauri-plugin-mihomo",
     "types-pac": "^1.0.3",
