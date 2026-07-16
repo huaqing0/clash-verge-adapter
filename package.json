@@ -95,7 +95,7 @@
     "@vitejs/plugin-legacy": "^8.0.0",
     "@vitejs/plugin-react": "^6.0.1",
     "adm-zip": "^0.5.16",
-    "axios": "^1.13.6",
+    "axios": "^1.16.0",
     "cli-color": "^2.0.4",
     "commander": "^14.0.3",
     "cross-env": "^10.1.0",
