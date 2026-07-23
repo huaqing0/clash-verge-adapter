@@ -4073,7 +4073,7 @@ mod adapter_tests {
 
     #[test]
     fn health_build_id_comes_from_the_packaged_adapter_manifest() {
-        assert_eq!(adapter_build_id(), "v1.0.0-rc.1-qa-v1.1-preferences-v7");
+        assert_eq!(adapter_build_id(), "v1.0.0-rc.1-unsigned.1-v1.1-preferences-v7");
     }
 
     #[test]
