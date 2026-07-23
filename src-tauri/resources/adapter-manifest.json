@@ -1,6 +1,6 @@
 {
-  "adapterVersion": "1.0.0-rc.1-qa",
-  "adapterBuildId": "v1.0.0-rc.1-qa-v1.1-preferences-v7",
+  "adapterVersion": "1.0.0-rc.1-unsigned.1",
+  "adapterBuildId": "v1.0.0-rc.1-unsigned.1-v1.1-preferences-v7",
   "upstreamVergeTag": "v2.5.1",
   "upstreamVergeCommit": "a00c67e",
   "adapterProtocolVersion": "v1",
@@ -52,5 +52,5 @@
   "signingStatus": "unsigned",
   "notarizationStatus": "not-notarized",
   "license": "GPL-3.0",
-  "notes": "Release-candidate QA build. Unsigned and unnotarized builds are for local testing only."
+  "notes": "Unsigned and unnotarized release-candidate build for the version-pinned macOS Apple Silicon community distribution."
 }
